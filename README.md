@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30">
+
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris-tlp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
