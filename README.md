@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Omar Pervez Khan</h1>
-<h3 align="center">Software Engineering student working towards a career in Data Engineering</h3>
+<h1 align="center"> Hi, I'm Omar! </h1>
 
-<<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ris-tlp&show_icons=true&locale=en&layout=compact" alt="ris-tlp" /></p>
+<h3> About Me </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&locale=en" alt="ris-tlp" /></p>
+&nbsp;&nbsp;&nbsp; 🧑‍💻 Software Engineering Senior working towards a career in Data Engineering  \
+&nbsp;&nbsp;&nbsp; 🧑‍🚀 Passionate about Data, Automation and Astronomy  \
+&nbsp;&nbsp;&nbsp; 🌃 Currently researching Galaxy Morphology classification through ML \
+&nbsp;&nbsp;&nbsp; 📖 Spend most of my time coding, stargazing or reading books 
+
+Took a hiatus from development for a while, back now!
+
+
+<p align="center">
+  <a href="https://stackshare.io/ris-tlp/my-stack">
+  <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge"> </img>
+  </a>
+</p>
+
+<!--
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ris-tlp&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=course_projects" alt="ris-tlp" /></p> 
+-->
+<p align="center"> 
+  <a href="mailto:omarkhantlp@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ris_tlp/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-pk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&hide=stars,contribs"> </img>
+</p>
+
+
+
+
+<!--
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&locale=en" alt="ris-tlp" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ris-tlp)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<a frameborder="0" data-theme="dark" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/cf247bb7b76555046b5f1885976831"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ris-tlp/my-stack)
-
 https://github.com/Ileriayo/markdown-badges#ci
+-->
