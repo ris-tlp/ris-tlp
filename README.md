@@ -34,7 +34,7 @@ Took a hiatus from development for a while, back now!
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ris-tlp&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=course_projects&langs_count=10&hide=html,c%23,css,swift,kotlin,objective-c&custom_title=Self-learnt%20Projects" alt="ris-tlp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ris-tlp&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=course_projects&langs_count=10&hide=html,c%23,css,swift,kotlin,objective-c,lua&custom_title=Self-learnt%20Projects" alt="ris-tlp" />
 </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
