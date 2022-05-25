@@ -2,23 +2,12 @@
 
 <h3> About Me </h3>
 
-&nbsp;&nbsp;&nbsp; 🧑‍💻 Software Engineering Senior working towards a career in Data Engineering  \
-&nbsp;&nbsp;&nbsp; 🧑‍🚀 Passionate about Data, Automation and Astronomy  \
-&nbsp;&nbsp;&nbsp; 🌃 Currently researching Galaxy Morphology classification through ML \
+&nbsp;&nbsp;&nbsp; 💻 Software Engineering Senior working towards a career in Data Engineering  \
+&nbsp;&nbsp;&nbsp; 🚀 Passionate about Data, Automation and Astronomy  \
 &nbsp;&nbsp;&nbsp; 📖 Spend most of my time coding, stargazing or reading books! 
 
-Took a hiatus from development for a while, back now!
 
-
-<p align="center">
-  <a href="https://stackshare.io/ris-tlp/my-stack">
-  <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge"> </img>
-  </a>
-</p>
-
-
-
-<p align="center"> 
+ <p align="center"> 
   <a href="mailto:omarkhantlp@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ris_tlp/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/omar-pk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,9 +16,9 @@ Took a hiatus from development for a while, back now!
 
 <hr>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&hide=stars,contribs"> </img>
-</p>
+</p>-->
 
 
 <p align="center">
