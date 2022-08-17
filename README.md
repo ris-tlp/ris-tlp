@@ -1,10 +1,10 @@
 <h1 align="center"> Hi, I'm Omar! </h1>
 
-<h3> About Me </h3>
+<!-- <h3> About Me </h3> -->
 
-&nbsp;&nbsp;&nbsp;  Software Engineering Master's student working towards a career in Data Engineering  \
-&nbsp;&nbsp;&nbsp;  Passionate about Data, Automation and Astronomy  \
-&nbsp;&nbsp;&nbsp;  Spend most of my time coding, stargazing or reading books! 
+- Master's of Software Engineering student [@UMD](https://www.umd.edu/).
+- Working towards integrating my passion of space/ground based telescopes and software engineering by pursuing a career in data engineering.
+- Spend most of my time coding, stargazing or reading books! 
 
 
 <!-- <p align="center"> 
@@ -14,14 +14,15 @@
   </a>
 </p> -->
 
-<hr>
 
-<!--<p align="center">
+
+<!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ris-tlp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&hide=stars,contribs"> </img>
 </p>-->
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ris-tlp&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=course_projects&langs_count=10&hide=html,c%23,css,swift,kotlin,objective-c,lua&custom_title=Self-learnt%20Projects" alt="ris-tlp" />
 </a> 
@@ -31,6 +32,7 @@
 </a> 
 </p>
 
+-->
 
 
 
