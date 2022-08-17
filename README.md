@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Omar! </h1>
+<h1 align="center"> Hi, I'm <a href="http://omarpervez.me/">Omar!</a> </h1>
 
 <!-- <h3> About Me </h3> -->
 
