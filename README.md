@@ -2,8 +2,8 @@
 
 <!-- <h3> About Me </h3> -->
 
-- Master's of Software Engineering student [@UMD](https://www.umd.edu/).
-- Learning and working my way towards a career in data engineering. Passionate about astronomical data produced by space telescopes!
+- Software Engineering graduate student [@UMD](https://www.umd.edu/).
+- Learning and working my way towards a career in backend engineering, specifically interested in distributed software architecture.
 - Hobbies include being an audiophile, amateur astronomer, avid reader and a self-proclaimed sandwich architect!
 
 
