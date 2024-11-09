@@ -2,7 +2,7 @@
 
 <!-- <h3> About Me </h3> -->
 
-- Software Engineering graduate student [@UMD](https://www.umd.edu/).
+- Software Engineering graduate student [@UMD](https://www.umd.edu/), currently working at S2TS as a software engineer. 
 - Learning and working my way towards a career in backend engineering, specifically interested in distributed software architecture.
 - Hobbies include being an audiophile, amateur astronomer, avid reader and a self-proclaimed sandwich architect!
 
