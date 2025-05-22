@@ -2,18 +2,19 @@
 
 <!-- <h3> About Me </h3> -->
 
-- Software Engineering graduate student [@UMD](https://www.umd.edu/), currently working at [@S2TS](https://s2ts.umd.edu/) as a software engineer. 
-- Learning and working my way towards a career in backend engineering, specifically interested in distributed software architecture.
+- Software Engineering graduate [@UMD](https://www.umd.edu/), currently SWE [@S2TS](https://s2ts.umd.edu/).
+- Learning and working my way toward a career in backend engineering, with a growing focus on distributed systems, scalable software architecture, and cloud infrastructure.
 - Hobbies include being an audiophile, amateur astronomer, avid reader and a self-proclaimed sandwich architect!
+- Feel free to reach out at [in/omar-pk](https://www.linkedin.com/in/omar-pk/) or [omarkhantlp@gmail.com](mailto:omarkhantlp@gmail.com)
 
 
- <p align="center"> 
+ <!-- <p align="center"> -->
  <!-- <a href="mailto:omarkhantlp@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.instagram.com/ris_tlp/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://www.linkedin.com/in/omar-pk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p> 
-
+<!--   <a href="https://www.linkedin.com/in/omar-pk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!--   </a> -->
+<!-- </p> 
+ -->
 
 
 <!--
