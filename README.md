@@ -2,9 +2,9 @@
 
 <!-- <h3> About Me </h3> -->
 
-- Software Engineering graduate [@UMD](https://www.umd.edu/), currently SWE [@S2TS](https://s2ts.umd.edu/).
+- Software Engineering Master's [@UMD](https://www.umd.edu/), currently SWE [@S2TS](https://s2ts.umd.edu/).
 - Learning and working my way toward a career in backend engineering, with a growing focus on distributed systems, scalable software architecture, and cloud infrastructure.
-- Hobbies include being an audiophile, amateur astronomer, avid reader and a self-proclaimed sandwich architect!
+- Hobbies include being an audiophile, amateur astronomer, avid reader, and a self-proclaimed sandwich architect!
 - Feel free to reach out at [in/omar-pk](https://www.linkedin.com/in/omar-pk/) or [omarkhantlp@gmail.com](mailto:omarkhantlp@gmail.com)
 
 
